@@ -15,7 +15,7 @@ Hypothesis testing (Chi Square test,wilcoxon sign test).
 
 PCA
 
-Implementation of ML algorithm for classification of Complaint Types according to Resolution Time (KNN, Random Forest Classifier) & prediction( linear Regression).
+Implementation of ML algorithm for classification of Complaint Types according to Resolution Time (KNN, Decision tree ,Random Forest Classifier) & prediction( linear Regression).
 
 Time series analysis on Complaints and forecasting next 1week ,1 month, Complaints.(Decomposition, Stationarity, Moving Average ,Holt Winters Method, SARIMAX Model).
 
